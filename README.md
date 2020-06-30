@@ -15,7 +15,7 @@ Unfortunately, our features are anonymized, so there may not be a great deal we 
 
 Import train_test_split from sklearn.model_selection and train the dataset with a test size of .25. Before we get to running any tests, let's check for multicollinearity within the dataset. The heat map below demonstrates that multicollinearity within the dataset is low so Principal Component Analysis is unlikely necessary.
 
-Upon applying a variety of machine learning models, we find that the top two models are Source Vector Machines and Random Forest Classifiers with RF's slightly edging out SVMs. When then perform some gridsearch to help tune our parameters and get our ideal model. 
+Upon applying a variety of machine learning models, we find that the top two models are Source Vector Machines and Random Forest Classifiers with RF's slightly edging out SVMs. We then perform some gridsearch to help tune our parameters and get our ideal model. 
 
 Now that we have our classifier, let's focus on improving it in another way. For the purpose of this classifier, it's preferable that we are able to identify a seizure when it does happen even if we end up being a bit on the side of over-diagnosing. So, instead of relying on a classifier that says that when it is more than 50% likely to be a seizure, let's make a custom classifier that has a much lower bar for identifying a seizure, say 20% for example. Having done this, we see that we are able to identify an even greater number of seizures, though our precision and accuracy for the model at large decline. 
 
