@@ -6,7 +6,6 @@ Problem: It can be difficult to determine whether someone has had an epileptic s
 
 [My_notebook](https://nbviewer.jupyter.org/github/Shin-pete/Seizure_Detection_With_Machine_Learning/blob/master/final_model.ipynb)
 
-![Background_img](https://github.com/Shin-pete/Seizure_Detection_With_Machine_Learning/blob/master/5VLnjeD.png?raw=true)
 
 With the background out of the way, we can look at what our data looks like: 
 
