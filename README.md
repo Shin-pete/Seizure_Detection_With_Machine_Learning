@@ -2,7 +2,7 @@
 
 ![Galaxy Brain](https://blueseatblogs.com/wp-content/uploads/2018/07/consciousness-709143-400x300.jpg)
 
-Problem: It can be difficult to determine whether someone has had an epileptic seizure. A misdiagnosis at the beginning can have severe effects where epilepsy, lying untreated, has grave consequences. Sometimes specialists attach EEGs to patients to and use the readings of brain activity ascertain whether someone is having a Epileptic Seizure. I want to see the effect of applying a machine learning algorithm onto the data and examine its efficacy.
+Problem: It can be difficult to determine whether someone has had an epileptic seizure. A misdiagnosis at the beginning can have severe effects where epilepsy, lying untreated, has grave consequences. Sometimes specialists attach EEGs to patients and use the readings of brain activity ascertain whether someone is having a Epileptic Seizure. I want to see the effect of applying a machine learning algorithm onto the data and examine its efficacy.
 
 [My_notebook](https://nbviewer.jupyter.org/github/Shin-pete/Seizure_Detection_With_Machine_Learning/blob/master/final_model.ipynb)
 
